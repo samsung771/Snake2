@@ -15,11 +15,11 @@
 #define DIMY 20
 
 //colour schemes
-#define SNAKEHEAD BLUE
-#define SNAKEBODY GREEN
-#define WALLCOL WHITE
-#define ENVIROCOL BLACK
-#define FRUITCOL RED
+#define SNAKEHEAD  YELLOW
+#define SNAKEBODY  GREEN
+#define WALLCOL    WHITE
+#define ENVIROCOL  BLACK
+#define FRUITCOL   RED
 
 class Game {
 private:
